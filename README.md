@@ -1,4 +1,4 @@
-# Vehicle Rental ManagementSystem
+# Vehicle Rental Management System
 
 ## About
 A simple console-based Vehicle Rental System developed using C++. It allows users to view vehicles, rent cars and bikes, calculate rental costs, and return vehicles.
